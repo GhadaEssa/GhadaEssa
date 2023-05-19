@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GhadaEssa
 - 👀 I’m interested in programming language
-- 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on SDAIA
+- 🌱 My major is CS.
+- 💞️ I’m looking to collaborate on SDAIA.
 - 📫 How to reach me, on my email:Ghadaessa2000@gmail.com
 
 <!---
